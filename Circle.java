@@ -1,12 +1,12 @@
 import java.util.*;
 class Circle
 {
-   public float area(r){
+   public float area(int r){
     float Pi=3.14;
      float area=Pi*r*r;
      return area;
        }
-    public int perimeter(r){
+    public int perimeter (int r){
         float Pi=3.14;
         float perimeter=2*Pi*r;
         return perimeter;

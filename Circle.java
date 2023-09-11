@@ -13,7 +13,7 @@ class Circle
     }
     public static void main(String args []){
         Scanner s1=new Scanner(System.in)
-        System.out.print("enter the Radius:");
-        S1.nextfloat
+        System.out.print("enter the Radius:"+12);
+        
     }
 }
